@@ -1,0 +1,42 @@
+.road_map_main{
+  justify-content: center;
+  gap: 30px;
+  margin-top: 40px;
+}
+
+.road_map_child{
+  border: 3px solid rgb(0, 153, 255);
+  border-radius: 10px;
+  color: white;
+  height: 220px;
+}
+
+
+
+.raod_map_p{
+  padding-top: 15px;
+text-align: center;
+}
+
+.road_map_dot{
+  margin-left: 4%;
+}
+#road_map_icon{
+  color: rgb(0, 153, 255);
+  font-size: 50px;
+  margin-top: 100%;
+  margin-left: 18%;
+  padding-right: 10%;
+}
+@media (max-width:930px)
+{
+  #road_map_icon{
+    display: none;
+  }
+}
+@media (max-width:500px)
+{
+  .road_map_dot{
+    margin-left: 5%;
+  }
+}

@@ -1,0 +1,33 @@
+.team_main {
+  justify-content: center;
+  gap: 30px;
+}
+
+.team_img img {
+  margin-top: 30px;
+  width: 100%;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  height: 300px;
+}
+
+@media  (max-width:870px) and (min-width:585px)
+{
+  .team_img img {
+    margin-top: 30px;
+    width: 100%;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    height: 440px;
+  }
+}
+
+@media (max-width: 580px) {
+  .team_img img {
+    margin-top: 30px;
+    width: 100%;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    height: 550px;
+  }
+}

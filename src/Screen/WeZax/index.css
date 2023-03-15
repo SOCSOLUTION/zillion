@@ -1,0 +1,77 @@
+/* .bg_we_zax {
+  background-image: url(../../Image/backgroundImg.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: auto;
+} */
+
+.bg_one img{
+  width: 100%;
+  height: 100vh;
+}
+
+.wezax_text{
+  margin-top: -62%;
+}
+
+.we_zax_heading h1 {
+  color: white;
+  padding-top: 25%;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 50px;
+}
+.bg_we_zax p {
+  color: white;
+  padding-top: 8%;
+  font-size: 20px;
+  text-align: start;
+  padding-bottom: 30%;
+}
+
+@media (max-width: 500px) {
+  .we_zax_heading h1 {
+    font-size: 28px;
+  }
+  .we_zax_heading p {
+    padding-bottom: -50px;
+  }
+  .bg_one img{
+    height: 70vh;
+  }
+  .wezax_text{
+    margin-top: -120%;
+  }
+  .wezax_text{
+    margin-bottom: -15%;
+  }
+
+}
+
+@media (max-width:1000px) and (min-width:700px){
+  .wezax_text{
+    margin-top: -80%;
+  }
+  .bg_one img{
+    height: 70vh;
+  }
+  .wezax_text{
+    margin-bottom: -10%;
+  }
+}
+
+
+@media (max-width:710px) and (min-width:510px){
+  .wezax_text{
+    margin-top: -75%;
+  }
+
+  .bg_one img{
+    height: 50vh;
+  }
+  .wezax_text{
+    margin-bottom: -28%;
+  }
+  .we_zax_heading h1{
+    font-size: 25px;
+  }
+}
