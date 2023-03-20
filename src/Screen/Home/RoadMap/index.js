@@ -27,7 +27,7 @@ const RoadMap = () => {
           <div className="road_map_dot">
             <li>Project Planning</li>
             <li>Zax Token Landing </li>
-            <li>Pree Sale</li>
+            <li>Pre Sale</li>
             <li>ZLaunch zillionxo.io </li>
             <li>Logistics services</li>
           </div>
@@ -40,7 +40,7 @@ const RoadMap = () => {
             <b>Aug-Nov - 2022</b>
           </p>
           <div className="road_map_dot">
-            <li>Fundraising plan for Zax utility.</li>
+            <li>Fund raising  plan for Zax utility.</li>
             <li>Blockchain integration</li>
           </div>
         </Grid>
@@ -80,7 +80,7 @@ const RoadMap = () => {
           </p>
           <div className="road_map_dot">
             <li>Raise fund for ZAX Governance</li>
-            <li>Launch liveStreaming platform</li>
+            <li>Launch  livestreaming platform</li>
             <li>Onboard KOLs/Influencers</li>
             <li>Prepare FGT Governance</li>
           </div>
@@ -110,7 +110,7 @@ const RoadMap = () => {
             <li>Buy now, pay later</li>
             <li>DeFi lending for Zax token </li>
             <li>Zax starter</li>
-            <li>Launch full service in Canada & UK (G7 market)</li>
+            <li>Launch full service in Canada & the UK (G7 market)</li>
           </div>
         </Grid>
         <Grid item lg={0.8} md={0.6}>

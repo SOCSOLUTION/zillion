@@ -28,7 +28,7 @@ const BenefitsZillion = () => {
           </Grid>
 
           <Grid item lg={4} md={5} sm={6.8} xs={12} className="benefits_img">
-            <img src={img11}  alt='bilal'/>
+            <img src={img11}  alt=''/>
             <p
                    id='benefits_text'
             >

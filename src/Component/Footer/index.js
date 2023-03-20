@@ -16,7 +16,7 @@ const Footer = () => {
           <Grid item lg={5} md={5} sm={6} xs={12} className="footer_logo">
             <img src={logo} alt="zillion AAkar xo" />
             <p style={{ paddingTop: "20px" }}>
-            ZAX is a utility token that breaks through the boundaries between centralized and decentralized platforms. Join us now and become part of the finance revolution.
+            ZAX is a utility token that breaks through the boundaries between centralized and decentralized platforms. Join us now and become part of the  financial revolution.
             </p>
             <h4 style={{ textAlign: "center", fontSize: "20px" }}>
               For Any Query Contact{" "}

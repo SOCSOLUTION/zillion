@@ -5,8 +5,8 @@ import img1 from "../../Image/img1.png";
 import img2 from "../../Image/img2.png";
 import img3 from "../../Image/img3.png";
 import img4 from "../../Image/img4.png";
-import img5 from "../../Image/img6.png";
-import img8 from "../../Image/img8.png";
+import img5 from "../../Image/Binance Smart Chain transaction experience.png";
+import img8 from "../../Image/zax crypto wallet.png";
 import "./index.css";
 const ZaxPrice = () => {
   return (
@@ -96,7 +96,7 @@ const ZaxPrice = () => {
               <p>
                 But ZAX is not just any token. It's been curated to solve
                 multiple purposes in one go, with the primary function being
-                paying for different kinds of transactions flawlessly. The token
+                paid for different kinds of transactions flawlessly. The token
                 is not restricted to any particular domain, so it can be
                 utilized for all sorts of online payments.
               </p>
@@ -126,7 +126,7 @@ const ZaxPrice = () => {
               xs={11}
               className="zerrion_aakar_img"
             >
-              <img src={img5} alt="wallet" className="vert-move" />
+              <img src={img5} alt="Binance Smart Chain" className="vert-move" />
             </Grid>
           </Grid>
         </Container>
@@ -145,7 +145,7 @@ const ZaxPrice = () => {
               <h1>How ZAX Works:</h1>
               <p>
                 ZAX operates as a digital token that grants users access to
-                products and services within the blockchain network. Its
+                products and services within the block chain network. Its
                 transparent and secure functionality allows businesses to gain
                 interest from investors, while providing discounts and the
                 ability to incorporate various payment methods.
@@ -158,7 +158,7 @@ const ZaxPrice = () => {
                 to the platform and its potential for growth in high demand
                 markets.<br></br>The ZAX token's use case is not limited to a
                 specific industry, making it an ideal choice for businesses and
-                investors looking to enter the blockchain market.
+                investors looking to enter the block chain market.
               </p>
               <br></br>
               <Button
